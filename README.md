@@ -1,5 +1,5 @@
-# TDD
-This repo contains some solution to tdd problems using `javascript` and `jest`.
+# TDD katas
+This repo contains some solution to tdd katas using `javascript` and `jest`.
 
 ## Usage
 Install packages using
