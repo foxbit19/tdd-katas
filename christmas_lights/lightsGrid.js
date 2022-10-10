@@ -7,8 +7,6 @@ class LightsGrid {
   );
 
   turnOn(x, y) {
-    console.log(x, y);
-
     this.grid[x][y] = 1;
   }
 
